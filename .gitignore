@@ -1,5 +1,36 @@
+# Models
 saved_models/
-__pycache__/
 *.joblib
-.env
+*.pkl
+*.pickle
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
 .venv/
+venv/
+env/
+
+# Environment Variables / API Keys
+.env
+.env.local
+*.env
+
+# Outputs (charts - regenerated automatically)
+outputs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
