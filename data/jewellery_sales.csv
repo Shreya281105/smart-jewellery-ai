@@ -1,0 +1,301 @@
+OrderID,OrderDate,OrderSource,PaymentMethod,DeliveryTime,ReturnStatus,CustomerID,CustomerName,Gender,AgeGroup,Location,CustomerType,ProductID,ProductName,Category,Material,Weight,Price,Quantity,TotalAmount,Discount,FeedbackRating,ProfitMargin,Season,Occasion
+ORD0001,2024-03-08,Instagram,Net Banking,10,Not Returned,CUST0007,Customer_144,Female,18-25,Delhi,New,PROD0026,Kundan Necklace,Necklace,Kundan,37.55,6408.05,2,9612.08,25,2.7,13.59,Monsoon,Wedding
+ORD0002,2023-06-09,Marketplace,UPI,8,Returned,CUST0092,Customer_89,Male,18-25,Bangalore,New,PROD0078,Kundan Pendant,Pendant,Kundan,9.66,5967.93,3,17903.79,0,3.4,36.56,Festive,Valentine
+ORD0003,2024-12-22,Facebook,UPI,7,Not Returned,CUST0060,Customer_26,Female,26-35,Kolkata,New,PROD0049,Diamond Anklet,Anklet,Diamond,41.81,116521.06,4,466084.24,0,3.9,29.32,Festive,Wedding
+ORD0004,2023-06-25,Facebook,Net Banking,3,Not Returned,CUST0057,Customer_84,Female,46-60,Chennai,New,PROD0008,Diamond Bracelet,Bracelet,Diamond,35.69,49277.74,3,140441.56,5,4.0,33.46,Monsoon,Valentine
+ORD0005,2024-05-26,Instagram,Credit Card,7,Not Returned,CUST0144,Customer_138,Male,26-35,Mumbai,Returning,PROD0034,Silver Anklet,Anklet,Silver,29.22,3508.74,1,3333.3,5,3.0,41.96,Monsoon,Wedding
+ORD0006,2023-06-13,Marketplace,Net Banking,3,Not Returned,CUST0065,Customer_142,Female,46-60,Chennai,Returning,PROD0002,Kundan Bangle,Bangle,Kundan,38.28,8515.94,2,13625.5,20,2.9,27.27,Festive,Casual
+ORD0007,2023-09-27,Instagram,Credit Card,2,Not Returned,CUST0096,Customer_42,Female,36-45,Kolkata,New,PROD0070,Kundan Pendant,Pendant,Kundan,9.59,15834.78,3,47504.34,0,4.9,20.27,Monsoon,Wedding
+ORD0008,2023-09-04,Website,Net Banking,6,Returned,CUST0033,Customer_33,Female,46-60,Kolkata,New,PROD0061,Rose Gold Necklace,Necklace,Rose Gold,41.92,21589.81,1,19430.83,10,3.1,40.76,Monsoon,Birthday
+ORD0009,2024-06-13,Website,Debit Card,7,Not Returned,CUST0006,Customer_142,Female,26-35,Delhi,Returning,PROD0030,Rose Gold Earrings,Earrings,Rose Gold,49.77,38717.06,2,58075.59,25,3.6,20.91,Festive,Festival
+ORD0010,2023-09-01,Instagram,Net Banking,7,Not Returned,CUST0148,Customer_122,Male,26-35,Hyderabad,Returning,PROD0032,Rose Gold Earrings,Earrings,Rose Gold,3.51,29482.27,1,28008.16,5,2.7,12.36,Summer,Wedding
+ORD0011,2024-10-23,Facebook,UPI,2,Not Returned,CUST0064,Customer_50,Female,46-60,Pune,New,PROD0025,Platinum Anklet,Anklet,Platinum,24.42,23017.69,4,82863.68,10,4.2,24.83,Winter,Casual
+ORD0012,2024-10-29,Marketplace,COD,10,Returned,CUST0124,Customer_55,Female,26-35,Delhi,New,PROD0052,Rose Gold Bracelet,Bracelet,Rose Gold,5.62,10605.57,4,40301.17,5,2.7,40.61,Festive,Anniversary
+ORD0013,2024-05-13,Website,Net Banking,10,Returned,CUST0139,Customer_16,Female,36-45,Delhi,New,PROD0041,Gold Earrings,Earrings,Gold,35.44,49338.9,3,125814.2,15,4.2,19.98,Summer,Casual
+ORD0014,2023-03-11,Instagram,Net Banking,4,Not Returned,CUST0011,Customer_21,Male,18-25,Hyderabad,New,PROD0054,Gold Necklace,Necklace,Gold,5.85,27628.27,2,55256.54,0,2.7,43.63,Festive,Birthday
+ORD0015,2024-10-22,Website,UPI,8,Not Returned,CUST0118,Customer_145,Male,36-45,Kolkata,Returning,PROD0013,Kundan Bangle,Bangle,Kundan,13.46,18824.71,2,28237.06,25,2.8,35.07,Monsoon,Birthday
+ORD0016,2024-07-10,Website,Credit Card,4,Not Returned,CUST0068,Customer_30,Female,36-45,Pune,Returning,PROD0014,Gold Bangle,Bangle,Gold,19.74,10960.55,3,32881.65,0,3.6,40.77,Monsoon,Anniversary
+ORD0017,2023-09-15,Facebook,UPI,6,Not Returned,CUST0001,Customer_86,Female,46-60,Kolkata,New,PROD0017,Kundan Bangle,Bangle,Kundan,35.0,7071.61,2,10607.41,25,3.8,22.0,Monsoon,Anniversary
+ORD0018,2024-01-14,Facebook,Debit Card,4,Not Returned,CUST0011,Customer_92,Male,26-35,Bangalore,New,PROD0027,Kundan Ring,Ring,Kundan,5.61,11930.25,4,38176.8,20,3.9,10.34,Festive,Anniversary
+ORD0019,2023-07-01,Facebook,COD,5,Not Returned,CUST0064,Customer_69,Female,26-35,Pune,Returning,PROD0021,Kundan Earrings,Earrings,Kundan,46.44,8366.22,4,26771.9,20,4.7,36.23,Summer,Valentine
+ORD0020,2023-08-22,Facebook,Debit Card,6,Not Returned,CUST0018,Customer_72,Female,26-35,Chennai,New,PROD0045,Kundan Necklace,Necklace,Kundan,24.09,17454.68,2,33163.89,5,4.6,38.58,Summer,Casual
+ORD0021,2024-09-02,Website,COD,6,Not Returned,CUST0148,Customer_49,Male,36-45,Chennai,Returning,PROD0033,Kundan Bangle,Bangle,Kundan,48.2,18906.27,1,17015.64,10,2.6,16.25,Monsoon,Casual
+ORD0022,2024-11-10,Marketplace,Debit Card,7,Not Returned,CUST0104,Customer_76,Male,36-45,Pune,New,PROD0071,Gold Pendant,Pendant,Gold,47.55,28396.42,2,51113.56,10,4.1,25.1,Summer,Casual
+ORD0023,2023-08-04,Marketplace,Credit Card,2,Not Returned,CUST0131,Customer_122,Male,46-60,Chennai,Returning,PROD0022,Silver Earrings,Earrings,Silver,21.49,5579.88,2,8927.81,20,3.3,29.92,Festive,Casual
+ORD0024,2023-09-08,Instagram,COD,4,Not Returned,CUST0127,Customer_103,Female,46-60,Chennai,Returning,PROD0032,Kundan Necklace,Necklace,Kundan,40.72,3680.97,2,5521.45,25,2.6,20.86,Monsoon,Festival
+ORD0025,2024-07-24,Marketplace,Net Banking,10,Not Returned,CUST0144,Customer_82,Female,46-60,Delhi,New,PROD0057,Silver Pendant,Pendant,Silver,40.6,7194.95,1,6115.71,15,3.7,17.66,Summer,Valentine
+ORD0026,2024-10-14,Marketplace,UPI,6,Not Returned,CUST0074,Customer_61,Male,26-35,Mumbai,Returning,PROD0035,Rose Gold Anklet,Anklet,Rose Gold,24.78,33900.49,4,128821.86,5,4.4,36.03,Festive,Valentine
+ORD0027,2023-12-05,Marketplace,COD,3,Not Returned,CUST0150,Customer_6,Male,18-25,Delhi,Returning,PROD0074,Diamond Ring,Ring,Diamond,35.91,44907.33,2,76342.46,15,3.5,34.29,Summer,Birthday
+ORD0028,2023-10-07,Facebook,COD,5,Not Returned,CUST0043,Customer_120,Male,18-25,Chennai,Returning,PROD0017,Platinum Bracelet,Bracelet,Platinum,37.26,40382.08,4,137299.07,15,3.7,28.84,Monsoon,Wedding
+ORD0029,2023-09-24,Facebook,Debit Card,9,Not Returned,CUST0098,Customer_72,Male,26-35,Chennai,Returning,PROD0054,Rose Gold Bangle,Bangle,Rose Gold,8.51,25308.14,1,25308.14,0,3.0,32.5,Festive,Wedding
+ORD0030,2023-09-11,Instagram,COD,2,Not Returned,CUST0030,Customer_145,Female,26-35,Delhi,New,PROD0028,Diamond Anklet,Anklet,Diamond,5.29,23488.99,1,21140.09,10,4.4,17.85,Festive,Wedding
+ORD0031,2024-08-12,Instagram,UPI,2,Not Returned,CUST0078,Customer_31,Male,26-35,Bangalore,Returning,PROD0073,Platinum Pendant,Pendant,Platinum,7.19,29262.08,1,27798.98,5,4.8,43.77,Monsoon,Festival
+ORD0032,2023-04-19,Instagram,COD,8,Not Returned,CUST0046,Customer_134,Male,46-60,Pune,Returning,PROD0035,Gold Ring,Ring,Gold,2.61,34768.46,1,27814.77,20,4.6,32.66,Festive,Birthday
+ORD0033,2024-04-06,Website,COD,3,Not Returned,CUST0084,Customer_47,Male,46-60,Mumbai,New,PROD0063,Rose Gold Anklet,Anklet,Rose Gold,41.88,20735.46,3,55985.74,10,3.2,39.81,Festive,Birthday
+ORD0034,2024-02-21,Marketplace,COD,3,Returned,CUST0005,Customer_24,Female,46-60,Pune,Returning,PROD0038,Silver Ring,Ring,Silver,47.51,2597.44,3,6233.86,20,3.1,10.36,Monsoon,Festival
+ORD0035,2024-12-20,Instagram,UPI,10,Returned,CUST0050,Customer_81,Male,36-45,Mumbai,Returning,PROD0016,Silver Bracelet,Bracelet,Silver,18.5,2796.55,3,7131.2,15,3.3,29.37,Winter,Valentine
+ORD0036,2023-04-13,Instagram,Debit Card,10,Not Returned,CUST0004,Customer_137,Male,26-35,Mumbai,New,PROD0017,Kundan Bangle,Bangle,Kundan,48.88,5447.74,4,19611.86,10,4.0,35.36,Winter,Valentine
+ORD0037,2024-04-25,Website,Debit Card,2,Not Returned,CUST0123,Customer_30,Male,36-45,Delhi,Returning,PROD0009,Diamond Necklace,Necklace,Diamond,25.56,145535.13,2,218302.7,25,3.9,40.4,Monsoon,Wedding
+ORD0038,2024-09-25,Facebook,Net Banking,8,Not Returned,CUST0110,Customer_79,Male,46-60,Chennai,New,PROD0073,Platinum Bracelet,Bracelet,Platinum,7.69,27896.8,3,83690.4,0,4.0,44.79,Summer,Wedding
+ORD0039,2024-07-19,Marketplace,Net Banking,4,Not Returned,CUST0121,Customer_75,Female,18-25,Chennai,New,PROD0005,Rose Gold Necklace,Necklace,Rose Gold,33.7,38113.25,2,57169.88,25,3.1,17.39,Summer,Birthday
+ORD0040,2024-07-11,Instagram,UPI,5,Not Returned,CUST0016,Customer_43,Female,36-45,Kolkata,New,PROD0040,Silver Ring,Ring,Silver,46.35,5772.41,4,23089.64,0,3.6,34.06,Monsoon,Valentine
+ORD0041,2024-05-20,Facebook,Net Banking,6,Not Returned,CUST0065,Customer_7,Female,18-25,Chennai,Returning,PROD0012,Rose Gold Pendant,Pendant,Rose Gold,21.32,19809.52,4,59428.56,25,3.8,20.64,Monsoon,Birthday
+ORD0042,2024-03-28,Marketplace,UPI,9,Not Returned,CUST0121,Customer_90,Female,46-60,Pune,Returning,PROD0053,Silver Pendant,Pendant,Silver,38.3,7996.79,3,19192.3,20,3.8,11.41,Summer,Birthday
+ORD0043,2024-07-17,Facebook,Debit Card,8,Not Returned,CUST0030,Customer_104,Male,18-25,Mumbai,New,PROD0066,Diamond Ring,Ring,Diamond,15.83,174391.96,3,444699.5,15,4.5,34.28,Summer,Valentine
+ORD0044,2023-07-28,Marketplace,UPI,9,Returned,CUST0008,Customer_62,Female,36-45,Chennai,Returning,PROD0021,Gold Pendant,Pendant,Gold,38.31,23596.14,2,37753.82,20,4.4,22.66,Festive,Birthday
+ORD0045,2023-10-26,Instagram,COD,4,Not Returned,CUST0142,Customer_38,Male,46-60,Chennai,Returning,PROD0050,Diamond Bangle,Bangle,Diamond,33.09,36777.66,1,31261.01,15,3.7,43.15,Festive,Wedding
+ORD0046,2023-10-17,Marketplace,Debit Card,6,Not Returned,CUST0086,Customer_142,Male,26-35,Chennai,Returning,PROD0070,Silver Bangle,Bangle,Silver,39.81,6980.2,3,17799.51,15,4.6,21.9,Winter,Birthday
+ORD0047,2024-04-29,Website,Credit Card,8,Not Returned,CUST0129,Customer_85,Male,26-35,Chennai,Returning,PROD0013,Platinum Bracelet,Bracelet,Platinum,43.09,98365.84,2,157385.34,20,2.6,23.4,Winter,Festival
+ORD0048,2023-09-29,Facebook,Net Banking,3,Not Returned,CUST0098,Customer_82,Male,18-25,Kolkata,Returning,PROD0063,Platinum Necklace,Necklace,Platinum,48.56,16304.55,2,27717.73,15,3.7,40.48,Festive,Birthday
+ORD0049,2024-12-21,Facebook,UPI,3,Not Returned,CUST0012,Customer_84,Male,26-35,Pune,New,PROD0008,Rose Gold Necklace,Necklace,Rose Gold,22.83,12451.73,3,35487.43,5,4.4,36.14,Summer,Birthday
+ORD0050,2024-01-27,Marketplace,Debit Card,4,Not Returned,CUST0118,Customer_66,Male,26-35,Delhi,New,PROD0002,Diamond Ring,Ring,Diamond,10.64,46202.56,4,147848.19,20,2.7,33.86,Festive,Festival
+ORD0051,2023-11-06,Instagram,COD,6,Returned,CUST0147,Customer_92,Male,46-60,Bangalore,New,PROD0074,Platinum Ring,Ring,Platinum,48.18,21278.26,3,51067.82,20,3.6,20.47,Winter,Valentine
+ORD0052,2024-05-23,Instagram,Net Banking,2,Not Returned,CUST0065,Customer_36,Female,36-45,Delhi,Returning,PROD0013,Diamond Pendant,Pendant,Diamond,43.52,196030.01,4,705708.04,10,4.8,10.28,Summer,Festival
+ORD0053,2024-03-01,Facebook,Net Banking,6,Returned,CUST0129,Customer_70,Female,26-35,Kolkata,New,PROD0022,Kundan Pendant,Pendant,Kundan,8.31,16194.99,1,12955.99,20,3.3,22.77,Monsoon,Wedding
+ORD0054,2024-11-21,Marketplace,UPI,5,Returned,CUST0068,Customer_138,Male,18-25,Kolkata,Returning,PROD0016,Diamond Anklet,Anklet,Diamond,5.61,154380.68,3,463142.04,0,4.7,26.39,Monsoon,Casual
+ORD0055,2024-09-16,Facebook,COD,10,Not Returned,CUST0030,Customer_36,Female,46-60,Pune,New,PROD0006,Platinum Ring,Ring,Platinum,24.63,64687.61,3,194062.83,0,3.3,33.62,Monsoon,Valentine
+ORD0056,2023-06-08,Marketplace,Debit Card,10,Returned,CUST0009,Customer_95,Female,46-60,Hyderabad,Returning,PROD0028,Gold Ring,Ring,Gold,34.18,9373.64,2,15935.19,15,3.5,25.88,Summer,Casual
+ORD0057,2023-07-14,Instagram,Net Banking,2,Not Returned,CUST0006,Customer_13,Male,18-25,Pune,New,PROD0043,Platinum Bracelet,Bracelet,Platinum,32.95,23445.14,3,56268.34,20,3.5,41.56,Monsoon,Anniversary
+ORD0058,2024-09-02,Facebook,Credit Card,7,Not Returned,CUST0029,Customer_7,Male,26-35,Delhi,New,PROD0017,Silver Earrings,Earrings,Silver,43.75,1014.58,2,1623.33,20,4.4,17.56,Winter,Birthday
+ORD0059,2024-05-02,Instagram,Net Banking,3,Not Returned,CUST0012,Customer_134,Male,18-25,Chennai,Returning,PROD0039,Gold Ring,Ring,Gold,22.21,5710.15,3,17130.45,0,4.4,14.44,Monsoon,Anniversary
+ORD0060,2023-03-24,Facebook,Net Banking,9,Not Returned,CUST0150,Customer_141,Female,18-25,Delhi,Returning,PROD0042,Platinum Pendant,Pendant,Platinum,25.53,99879.87,4,339591.56,15,2.7,34.01,Summer,Wedding
+ORD0061,2023-08-09,Facebook,COD,10,Not Returned,CUST0103,Customer_107,Male,26-35,Chennai,Returning,PROD0013,Platinum Bangle,Bangle,Platinum,7.49,53565.81,4,214263.24,0,4.3,37.76,Monsoon,Birthday
+ORD0062,2023-04-09,Facebook,UPI,3,Not Returned,CUST0106,Customer_91,Female,18-25,Hyderabad,Returning,PROD0055,Diamond Bracelet,Bracelet,Diamond,5.22,87374.18,2,131061.27,25,2.7,42.3,Monsoon,Festival
+ORD0063,2024-07-23,Instagram,COD,3,Returned,CUST0144,Customer_143,Female,36-45,Hyderabad,Returning,PROD0004,Kundan Necklace,Necklace,Kundan,12.76,8329.63,2,15826.3,5,3.4,32.99,Monsoon,Festival
+ORD0064,2023-05-27,Website,UPI,7,Not Returned,CUST0136,Customer_56,Female,26-35,Pune,Returning,PROD0049,Rose Gold Pendant,Pendant,Rose Gold,46.23,5042.31,3,11345.2,25,2.5,36.68,Monsoon,Valentine
+ORD0065,2024-09-24,Marketplace,COD,4,Not Returned,CUST0114,Customer_107,Female,36-45,Chennai,New,PROD0035,Platinum Bracelet,Bracelet,Platinum,44.4,46454.51,3,111490.82,20,2.9,30.87,Winter,Festival
+ORD0066,2023-02-16,Instagram,Debit Card,10,Not Returned,CUST0055,Customer_36,Male,18-25,Bangalore,New,PROD0033,Silver Anklet,Anklet,Silver,30.47,3088.8,1,2779.92,10,4.2,33.74,Summer,Birthday
+ORD0067,2024-11-15,Website,COD,5,Not Returned,CUST0005,Customer_118,Female,46-60,Kolkata,Returning,PROD0010,Diamond Ring,Ring,Diamond,27.56,109529.36,4,416211.57,5,3.8,14.52,Summer,Wedding
+ORD0068,2024-09-24,Website,Credit Card,7,Not Returned,CUST0112,Customer_103,Male,18-25,Chennai,Returning,PROD0068,Diamond Bangle,Bangle,Diamond,3.0,147709.81,4,531755.32,10,2.9,14.03,Festive,Casual
+ORD0069,2023-12-24,Instagram,Debit Card,10,Not Returned,CUST0051,Customer_45,Female,26-35,Bangalore,Returning,PROD0078,Gold Bracelet,Bracelet,Gold,7.47,14970.74,2,29941.48,0,3.0,27.87,Monsoon,Festival
+ORD0070,2024-08-01,Website,COD,9,Returned,CUST0114,Customer_78,Male,26-35,Chennai,Returning,PROD0036,Silver Anklet,Anklet,Silver,38.47,1828.6,4,6217.24,15,4.2,36.41,Summer,Valentine
+ORD0071,2023-04-03,Instagram,Debit Card,3,Not Returned,CUST0122,Customer_129,Male,18-25,Chennai,Returning,PROD0020,Rose Gold Necklace,Necklace,Rose Gold,41.92,15174.68,4,60698.72,0,4.1,11.99,Summer,Festival
+ORD0072,2024-06-20,Marketplace,COD,9,Not Returned,CUST0087,Customer_14,Male,36-45,Mumbai,New,PROD0043,Gold Bracelet,Bracelet,Gold,3.88,49207.35,1,39365.88,20,5.0,32.61,Monsoon,Wedding
+ORD0073,2024-11-02,Marketplace,Debit Card,7,Not Returned,CUST0033,Customer_135,Female,18-25,Mumbai,Returning,PROD0012,Gold Ring,Ring,Gold,33.85,17786.61,2,32015.9,10,3.3,12.85,Festive,Wedding
+ORD0074,2023-05-21,Website,Net Banking,9,Not Returned,CUST0139,Customer_135,Female,36-45,Kolkata,New,PROD0005,Kundan Pendant,Pendant,Kundan,18.4,2328.15,3,6635.23,5,3.0,43.29,Monsoon,Casual
+ORD0075,2023-02-14,Facebook,COD,4,Not Returned,CUST0060,Customer_137,Male,26-35,Chennai,Returning,PROD0031,Kundan Ring,Ring,Kundan,35.26,12750.44,2,24225.84,5,4.3,16.33,Winter,Birthday
+ORD0076,2023-06-15,Marketplace,Debit Card,10,Not Returned,CUST0142,Customer_27,Female,36-45,Bangalore,New,PROD0067,Diamond Anklet,Anklet,Diamond,39.35,86211.37,4,293118.66,15,3.8,36.93,Winter,Casual
+ORD0077,2023-01-28,Facebook,Credit Card,9,Not Returned,CUST0099,Customer_21,Female,46-60,Hyderabad,Returning,PROD0048,Gold Ring,Ring,Gold,45.7,17275.61,2,29368.54,15,4.7,13.21,Winter,Wedding
+ORD0078,2023-05-23,Website,Debit Card,9,Not Returned,CUST0056,Customer_39,Male,18-25,Bangalore,Returning,PROD0071,Silver Necklace,Necklace,Silver,15.77,6793.82,3,19362.39,5,4.2,14.82,Summer,Festival
+ORD0079,2024-09-29,Marketplace,Net Banking,8,Not Returned,CUST0138,Customer_5,Female,18-25,Kolkata,Returning,PROD0066,Kundan Bangle,Bangle,Kundan,4.29,4001.36,3,11403.88,5,4.1,20.54,Festive,Birthday
+ORD0080,2023-03-29,Marketplace,UPI,4,Not Returned,CUST0100,Customer_96,Female,18-25,Chennai,Returning,PROD0033,Rose Gold Earrings,Earrings,Rose Gold,29.39,14485.79,1,11588.63,20,4.2,22.35,Winter,Valentine
+ORD0081,2023-12-13,Instagram,Credit Card,2,Returned,CUST0017,Customer_118,Male,46-60,Pune,New,PROD0005,Kundan Necklace,Necklace,Kundan,17.96,8206.44,1,6565.15,20,3.4,35.73,Summer,Festival
+ORD0082,2023-02-07,Website,Debit Card,10,Not Returned,CUST0070,Customer_32,Male,36-45,Kolkata,New,PROD0048,Diamond Earrings,Earrings,Diamond,49.48,179442.27,3,484494.13,10,3.7,28.04,Winter,Wedding
+ORD0083,2024-06-15,Marketplace,Net Banking,9,Not Returned,CUST0047,Customer_140,Female,46-60,Bangalore,Returning,PROD0038,Platinum Bracelet,Bracelet,Platinum,25.82,91044.19,4,327759.08,10,3.4,44.08,Festive,Valentine
+ORD0084,2023-02-13,Website,UPI,9,Not Returned,CUST0104,Customer_94,Male,36-45,Pune,Returning,PROD0066,Diamond Necklace,Necklace,Diamond,22.45,138965.46,3,354361.92,15,3.4,31.09,Monsoon,Wedding
+ORD0085,2024-08-03,Facebook,COD,7,Not Returned,CUST0020,Customer_147,Female,46-60,Mumbai,New,PROD0018,Kundan Pendant,Pendant,Kundan,13.33,4570.03,4,18280.12,0,3.4,14.42,Summer,Anniversary
+ORD0086,2024-07-29,Marketplace,Credit Card,10,Not Returned,CUST0074,Customer_126,Male,36-45,Pune,New,PROD0026,Rose Gold Ring,Ring,Rose Gold,10.93,27384.19,2,54768.38,0,3.5,10.91,Monsoon,Casual
+ORD0087,2024-12-27,Instagram,Credit Card,7,Not Returned,CUST0093,Customer_131,Male,36-45,Kolkata,New,PROD0029,Gold Earrings,Earrings,Gold,48.44,12769.54,4,51078.16,0,4.2,38.37,Festive,Wedding
+ORD0088,2023-03-30,Marketplace,Net Banking,10,Not Returned,CUST0106,Customer_105,Male,46-60,Pune,New,PROD0074,Gold Earrings,Earrings,Gold,19.71,40566.79,1,36510.11,10,2.8,29.39,Winter,Anniversary
+ORD0089,2023-05-13,Instagram,Debit Card,4,Returned,CUST0043,Customer_42,Female,18-25,Hyderabad,Returning,PROD0042,Gold Earrings,Earrings,Gold,39.45,25248.85,3,71959.22,5,4.4,40.73,Summer,Festival
+ORD0090,2024-09-21,Facebook,Net Banking,4,Not Returned,CUST0011,Customer_8,Female,26-35,Delhi,New,PROD0011,Kundan Earrings,Earrings,Kundan,28.44,17226.81,3,49096.41,5,4.1,32.23,Monsoon,Festival
+ORD0091,2023-11-06,Marketplace,UPI,10,Not Returned,CUST0016,Customer_41,Female,46-60,Mumbai,Returning,PROD0057,Gold Pendant,Pendant,Gold,25.91,34300.85,4,109762.72,20,3.2,32.36,Monsoon,Birthday
+ORD0092,2023-05-14,Marketplace,UPI,7,Not Returned,CUST0069,Customer_116,Female,36-45,Delhi,Returning,PROD0032,Platinum Bracelet,Bracelet,Platinum,17.33,43916.37,2,79049.47,10,4.9,40.15,Winter,Casual
+ORD0093,2023-11-17,Marketplace,COD,7,Not Returned,CUST0079,Customer_128,Female,46-60,Hyderabad,New,PROD0003,Silver Necklace,Necklace,Silver,45.31,7590.39,4,28843.48,5,4.8,43.69,Monsoon,Wedding
+ORD0094,2024-10-31,Website,COD,9,Not Returned,CUST0035,Customer_68,Male,18-25,Kolkata,Returning,PROD0047,Gold Bracelet,Bracelet,Gold,4.43,48500.9,2,77601.44,20,4.0,22.35,Festive,Birthday
+ORD0095,2024-07-17,Marketplace,Debit Card,10,Not Returned,CUST0087,Customer_143,Female,26-35,Bangalore,Returning,PROD0047,Platinum Ring,Ring,Platinum,5.53,19348.4,2,34827.12,10,3.6,29.36,Festive,Wedding
+ORD0096,2023-06-02,Marketplace,Net Banking,9,Not Returned,CUST0077,Customer_87,Male,36-45,Delhi,New,PROD0065,Silver Earrings,Earrings,Silver,17.99,4250.58,1,4250.58,0,3.8,14.8,Festive,Birthday
+ORD0097,2024-12-05,Instagram,UPI,8,Not Returned,CUST0150,Customer_123,Male,36-45,Pune,New,PROD0022,Rose Gold Bangle,Bangle,Rose Gold,7.26,21096.13,1,18986.52,10,4.0,21.59,Monsoon,Casual
+ORD0098,2023-11-18,Instagram,COD,5,Not Returned,CUST0129,Customer_121,Female,46-60,Pune,Returning,PROD0008,Rose Gold Pendant,Pendant,Rose Gold,35.63,9319.93,2,18639.86,0,2.5,30.04,Festive,Valentine
+ORD0099,2023-12-17,Instagram,Debit Card,9,Not Returned,CUST0143,Customer_77,Male,46-60,Delhi,Returning,PROD0029,Kundan Earrings,Earrings,Kundan,47.92,12095.96,4,38707.07,20,4.8,23.19,Winter,Birthday
+ORD0100,2024-08-10,Instagram,Debit Card,6,Not Returned,CUST0011,Customer_74,Male,36-45,Kolkata,Returning,PROD0011,Diamond Anklet,Anklet,Diamond,28.9,144243.18,4,519275.45,10,3.2,26.79,Winter,Festival
+ORD0101,2023-05-21,Instagram,Credit Card,10,Not Returned,CUST0014,Customer_26,Female,26-35,Bangalore,New,PROD0053,Diamond Bracelet,Bracelet,Diamond,15.01,154520.93,2,293589.77,5,4.2,38.98,Monsoon,Valentine
+ORD0102,2024-05-02,Facebook,UPI,4,Not Returned,CUST0023,Customer_147,Female,36-45,Mumbai,Returning,PROD0030,Diamond Pendant,Pendant,Diamond,48.94,142614.56,2,285229.12,0,3.5,43.76,Summer,Casual
+ORD0103,2024-02-11,Website,Debit Card,2,Not Returned,CUST0146,Customer_28,Female,36-45,Bangalore,Returning,PROD0043,Rose Gold Pendant,Pendant,Rose Gold,10.44,36876.27,2,62689.66,15,5.0,40.88,Summer,Valentine
+ORD0104,2024-04-14,Facebook,Debit Card,3,Not Returned,CUST0146,Customer_50,Female,18-25,Pune,Returning,PROD0023,Diamond Bracelet,Bracelet,Diamond,11.25,180066.79,2,288106.86,20,3.3,26.38,Festive,Valentine
+ORD0105,2023-09-12,Marketplace,Debit Card,4,Returned,CUST0085,Customer_78,Male,46-60,Delhi,New,PROD0075,Rose Gold Anklet,Anklet,Rose Gold,6.58,33771.63,3,101314.89,0,3.7,24.03,Festive,Valentine
+ORD0106,2024-05-29,Instagram,Credit Card,4,Not Returned,CUST0035,Customer_123,Female,36-45,Mumbai,Returning,PROD0020,Kundan Bangle,Bangle,Kundan,24.34,13766.3,2,27532.6,0,3.5,33.37,Monsoon,Wedding
+ORD0107,2024-09-02,Website,UPI,5,Not Returned,CUST0141,Customer_130,Male,36-45,Bangalore,New,PROD0026,Platinum Pendant,Pendant,Platinum,41.63,50346.88,4,161110.02,20,4.2,38.07,Monsoon,Birthday
+ORD0108,2024-06-06,Marketplace,COD,9,Not Returned,CUST0145,Customer_15,Female,46-60,Delhi,Returning,PROD0072,Rose Gold Bangle,Bangle,Rose Gold,36.41,15812.23,4,63248.92,0,2.7,33.81,Winter,Anniversary
+ORD0109,2023-03-07,Facebook,COD,8,Not Returned,CUST0047,Customer_35,Female,46-60,Bangalore,New,PROD0054,Platinum Pendant,Pendant,Platinum,5.51,48655.64,1,36491.73,25,3.4,17.63,Summer,Festival
+ORD0110,2023-05-11,Marketplace,Net Banking,10,Not Returned,CUST0109,Customer_137,Female,18-25,Mumbai,New,PROD0049,Diamond Bracelet,Bracelet,Diamond,7.69,87616.2,2,131424.3,25,3.5,40.11,Festive,Casual
+ORD0111,2023-01-17,Website,COD,8,Not Returned,CUST0013,Customer_63,Female,18-25,Bangalore,New,PROD0006,Silver Earrings,Earrings,Silver,3.55,1663.41,2,2495.12,25,4.0,36.79,Monsoon,Casual
+ORD0112,2024-11-19,Instagram,COD,7,Not Returned,CUST0077,Customer_71,Female,36-45,Delhi,Returning,PROD0008,Platinum Bracelet,Bracelet,Platinum,15.88,79122.79,1,75166.65,5,3.9,27.64,Winter,Anniversary
+ORD0113,2023-11-23,Marketplace,Credit Card,8,Returned,CUST0138,Customer_122,Male,26-35,Mumbai,Returning,PROD0031,Rose Gold Bangle,Bangle,Rose Gold,48.67,26535.75,4,84914.4,20,4.5,27.35,Winter,Valentine
+ORD0114,2023-09-06,Website,COD,10,Not Returned,CUST0095,Customer_24,Female,36-45,Pune,Returning,PROD0069,Silver Ring,Ring,Silver,21.99,6543.32,1,5234.66,20,2.8,24.44,Winter,Valentine
+ORD0115,2023-08-02,Instagram,UPI,10,Not Returned,CUST0123,Customer_63,Male,18-25,Delhi,Returning,PROD0078,Kundan Anklet,Anklet,Kundan,38.56,6832.31,1,6832.31,0,3.0,16.59,Summer,Anniversary
+ORD0116,2024-06-09,Marketplace,Debit Card,6,Returned,CUST0053,Customer_95,Male,18-25,Kolkata,Returning,PROD0041,Kundan Earrings,Earrings,Kundan,33.14,11937.43,3,30440.45,15,3.2,26.32,Winter,Casual
+ORD0117,2023-07-20,Instagram,COD,8,Not Returned,CUST0141,Customer_87,Female,46-60,Hyderabad,Returning,PROD0033,Platinum Necklace,Necklace,Platinum,30.03,78006.45,1,70205.8,10,3.2,29.37,Winter,Birthday
+ORD0118,2024-07-09,Website,UPI,4,Not Returned,CUST0106,Customer_36,Female,18-25,Kolkata,New,PROD0030,Platinum Pendant,Pendant,Platinum,28.23,54170.46,3,154385.81,5,4.8,14.9,Festive,Valentine
+ORD0119,2023-01-17,Facebook,Net Banking,9,Returned,CUST0074,Customer_5,Male,18-25,Bangalore,New,PROD0065,Gold Pendant,Pendant,Gold,32.61,14842.39,4,53432.6,10,4.1,12.12,Summer,Anniversary
+ORD0120,2023-12-29,Marketplace,COD,10,Not Returned,CUST0145,Customer_63,Male,18-25,Mumbai,Returning,PROD0029,Kundan Pendant,Pendant,Kundan,11.21,3926.3,1,3141.04,20,3.1,15.21,Winter,Casual
+ORD0121,2023-03-26,Website,Net Banking,2,Not Returned,CUST0011,Customer_59,Male,36-45,Hyderabad,Returning,PROD0028,Diamond Pendant,Pendant,Diamond,4.69,36830.09,4,125222.31,15,4.3,29.34,Summer,Wedding
+ORD0122,2023-11-19,Marketplace,UPI,2,Returned,CUST0077,Customer_42,Female,26-35,Kolkata,New,PROD0073,Kundan Bangle,Bangle,Kundan,45.17,2838.12,1,2128.59,25,2.9,42.4,Monsoon,Casual
+ORD0123,2024-03-23,Marketplace,Debit Card,7,Not Returned,CUST0008,Customer_70,Female,36-45,Hyderabad,New,PROD0058,Silver Bangle,Bangle,Silver,26.04,3378.85,2,5068.27,25,2.6,35.35,Monsoon,Casual
+ORD0124,2023-03-26,Instagram,COD,5,Not Returned,CUST0082,Customer_93,Female,46-60,Pune,Returning,PROD0014,Platinum Earrings,Earrings,Platinum,16.18,51707.08,4,206828.32,0,4.3,37.03,Festive,Festival
+ORD0125,2024-06-08,Facebook,Net Banking,9,Not Returned,CUST0024,Customer_84,Female,18-25,Bangalore,Returning,PROD0050,Gold Necklace,Necklace,Gold,10.99,21196.29,3,63588.87,0,3.9,14.64,Festive,Festival
+ORD0126,2023-11-05,Instagram,COD,4,Not Returned,CUST0071,Customer_108,Male,26-35,Bangalore,Returning,PROD0039,Gold Ring,Ring,Gold,34.9,40062.61,2,64100.18,20,2.8,28.24,Festive,Casual
+ORD0127,2023-05-19,Marketplace,Debit Card,5,Not Returned,CUST0113,Customer_86,Female,46-60,Mumbai,Returning,PROD0056,Platinum Anklet,Anklet,Platinum,30.5,36394.48,2,54591.72,25,3.6,31.88,Monsoon,Wedding
+ORD0128,2024-12-12,Facebook,COD,7,Returned,CUST0094,Customer_30,Female,36-45,Chennai,Returning,PROD0073,Kundan Bangle,Bangle,Kundan,48.3,7771.97,2,13212.35,15,3.2,21.0,Monsoon,Anniversary
+ORD0129,2024-12-10,Facebook,Credit Card,9,Not Returned,CUST0065,Customer_40,Male,46-60,Delhi,New,PROD0055,Silver Bangle,Bangle,Silver,36.0,5612.84,1,4209.63,25,4.5,26.16,Winter,Birthday
+ORD0130,2023-03-29,Website,Net Banking,10,Not Returned,CUST0103,Customer_85,Female,36-45,Delhi,New,PROD0056,Platinum Necklace,Necklace,Platinum,48.48,64490.74,4,206370.37,20,4.0,11.29,Festive,Casual
+ORD0131,2023-01-26,Website,UPI,10,Not Returned,CUST0037,Customer_90,Female,36-45,Chennai,Returning,PROD0040,Gold Necklace,Necklace,Gold,24.23,14990.05,2,25483.08,15,2.9,23.09,Monsoon,Wedding
+ORD0132,2024-12-28,Website,Credit Card,3,Not Returned,CUST0063,Customer_133,Female,36-45,Pune,New,PROD0023,Diamond Bracelet,Bracelet,Diamond,23.72,82694.05,1,70289.94,15,3.3,35.27,Festive,Anniversary
+ORD0133,2024-09-20,Website,Credit Card,8,Not Returned,CUST0053,Customer_72,Male,46-60,Chennai,New,PROD0009,Rose Gold Earrings,Earrings,Rose Gold,10.95,38504.65,2,65457.9,15,3.5,32.04,Festive,Festival
+ORD0134,2024-10-16,Website,Debit Card,9,Not Returned,CUST0091,Customer_118,Male,46-60,Hyderabad,Returning,PROD0080,Rose Gold Necklace,Necklace,Rose Gold,34.19,17168.55,2,29186.53,15,3.8,13.99,Winter,Birthday
+ORD0135,2024-01-18,Instagram,Net Banking,6,Returned,CUST0099,Customer_109,Male,46-60,Hyderabad,New,PROD0024,Silver Anklet,Anklet,Silver,7.66,7390.12,1,5542.59,25,2.8,14.69,Monsoon,Valentine
+ORD0136,2024-01-03,Marketplace,Net Banking,9,Not Returned,CUST0130,Customer_127,Male,26-35,Delhi,New,PROD0053,Platinum Pendant,Pendant,Platinum,17.1,62167.57,4,223803.25,10,4.0,14.91,Winter,Birthday
+ORD0137,2023-08-19,Marketplace,Net Banking,6,Not Returned,CUST0131,Customer_29,Female,46-60,Hyderabad,Returning,PROD0074,Kundan Bracelet,Bracelet,Kundan,38.53,10796.59,1,8637.27,20,2.6,11.08,Festive,Casual
+ORD0138,2024-10-31,Facebook,Debit Card,8,Not Returned,CUST0023,Customer_113,Male,18-25,Chennai,New,PROD0016,Gold Ring,Ring,Gold,12.49,29391.95,1,22043.96,25,2.8,25.45,Monsoon,Birthday
+ORD0139,2024-08-06,Facebook,Debit Card,5,Not Returned,CUST0147,Customer_69,Male,26-35,Mumbai,Returning,PROD0066,Silver Earrings,Earrings,Silver,39.67,6957.87,4,26439.91,5,4.5,31.57,Monsoon,Valentine
+ORD0140,2023-05-16,Instagram,COD,4,Returned,CUST0126,Customer_37,Female,36-45,Kolkata,New,PROD0074,Kundan Anklet,Anklet,Kundan,43.62,19329.9,4,77319.6,0,4.3,44.74,Winter,Wedding
+ORD0141,2023-10-12,Website,UPI,8,Returned,CUST0118,Customer_92,Male,46-60,Mumbai,Returning,PROD0009,Kundan Ring,Ring,Kundan,38.91,8753.1,1,6564.83,25,3.8,37.81,Festive,Valentine
+ORD0142,2024-08-02,Website,COD,10,Not Returned,CUST0005,Customer_32,Male,18-25,Bangalore,Returning,PROD0021,Rose Gold Bracelet,Bracelet,Rose Gold,15.61,33694.52,4,121300.27,10,3.9,21.3,Festive,Anniversary
+ORD0143,2024-01-05,Instagram,UPI,6,Not Returned,CUST0102,Customer_79,Female,36-45,Pune,Returning,PROD0030,Platinum Bracelet,Bracelet,Platinum,43.97,32197.05,2,48295.57,25,2.7,20.57,Festive,Wedding
+ORD0144,2024-12-13,Instagram,COD,9,Not Returned,CUST0019,Customer_59,Female,46-60,Pune,Returning,PROD0050,Platinum Pendant,Pendant,Platinum,12.86,15092.34,4,60369.36,0,2.5,14.64,Summer,Wedding
+ORD0145,2024-11-24,Instagram,COD,4,Not Returned,CUST0090,Customer_55,Female,18-25,Hyderabad,New,PROD0020,Gold Pendant,Pendant,Gold,41.04,19100.82,3,54437.34,5,4.1,23.4,Summer,Wedding
+ORD0146,2024-03-15,Website,Credit Card,8,Not Returned,CUST0142,Customer_73,Female,26-35,Mumbai,Returning,PROD0004,Platinum Bangle,Bangle,Platinum,7.91,88096.81,1,88096.81,0,3.4,14.9,Festive,Valentine
+ORD0147,2023-04-26,Website,Debit Card,5,Not Returned,CUST0082,Customer_34,Male,18-25,Hyderabad,New,PROD0050,Kundan Ring,Ring,Kundan,45.1,15461.19,3,34787.68,25,3.7,11.91,Winter,Anniversary
+ORD0148,2023-03-03,Marketplace,UPI,5,Not Returned,CUST0138,Customer_138,Male,46-60,Chennai,Returning,PROD0079,Rose Gold Bracelet,Bracelet,Rose Gold,2.66,31458.13,1,31458.13,0,2.6,30.56,Winter,Festival
+ORD0149,2024-03-23,Marketplace,UPI,3,Not Returned,CUST0117,Customer_15,Female,26-35,Bangalore,New,PROD0040,Silver Ring,Ring,Silver,20.76,1092.66,2,2076.05,5,3.3,28.77,Monsoon,Wedding
+ORD0150,2023-09-23,Facebook,UPI,7,Not Returned,CUST0008,Customer_86,Male,26-35,Pune,New,PROD0055,Kundan Pendant,Pendant,Kundan,25.83,4149.97,2,6224.95,25,3.8,10.4,Winter,Valentine
+ORD0151,2023-06-20,Website,Net Banking,9,Returned,CUST0030,Customer_59,Female,36-45,Kolkata,Returning,PROD0066,Diamond Bangle,Bangle,Diamond,19.29,148218.18,1,125985.45,15,4.6,25.93,Monsoon,Wedding
+ORD0152,2024-11-02,Marketplace,Debit Card,2,Not Returned,CUST0070,Customer_20,Female,36-45,Delhi,Returning,PROD0074,Gold Necklace,Necklace,Gold,10.59,7069.17,3,18026.38,15,3.9,42.21,Winter,Wedding
+ORD0153,2023-11-15,Facebook,Credit Card,6,Not Returned,CUST0075,Customer_145,Female,46-60,Bangalore,Returning,PROD0039,Diamond Necklace,Necklace,Diamond,24.32,52281.98,1,44439.68,15,4.4,12.41,Summer,Birthday
+ORD0154,2024-02-24,Website,Debit Card,5,Not Returned,CUST0001,Customer_97,Female,36-45,Pune,New,PROD0040,Kundan Bangle,Bangle,Kundan,28.23,8628.93,4,32789.93,5,2.9,35.64,Festive,Anniversary
+ORD0155,2024-06-16,Website,Net Banking,5,Returned,CUST0025,Customer_130,Male,46-60,Pune,Returning,PROD0018,Gold Earrings,Earrings,Gold,6.47,23891.71,1,22697.12,5,4.7,34.91,Winter,Birthday
+ORD0156,2023-11-19,Facebook,Credit Card,6,Not Returned,CUST0020,Customer_52,Male,36-45,Chennai,Returning,PROD0018,Kundan Anklet,Anklet,Kundan,8.27,12654.12,1,10756.0,15,3.2,33.19,Summer,Casual
+ORD0157,2024-04-19,Facebook,Net Banking,5,Not Returned,CUST0011,Customer_56,Female,18-25,Delhi,Returning,PROD0042,Rose Gold Necklace,Necklace,Rose Gold,27.72,9917.5,4,35703.0,10,3.6,24.23,Summer,Anniversary
+ORD0158,2024-02-19,Website,Credit Card,4,Not Returned,CUST0032,Customer_4,Female,18-25,Chennai,Returning,PROD0008,Silver Necklace,Necklace,Silver,16.34,7763.0,4,24841.6,20,2.6,11.71,Winter,Valentine
+ORD0159,2023-03-08,Facebook,UPI,3,Not Returned,CUST0011,Customer_119,Male,26-35,Bangalore,New,PROD0007,Silver Earrings,Earrings,Silver,46.04,3291.8,1,2633.44,20,2.6,30.51,Festive,Anniversary
+ORD0160,2024-04-01,Facebook,COD,4,Not Returned,CUST0106,Customer_141,Female,26-35,Pune,New,PROD0062,Silver Bangle,Bangle,Silver,18.99,4220.95,4,12662.85,25,3.2,24.93,Festive,Casual
+ORD0161,2024-01-27,Facebook,COD,10,Not Returned,CUST0070,Customer_47,Male,46-60,Mumbai,Returning,PROD0004,Gold Necklace,Necklace,Gold,27.24,11175.62,2,16763.43,25,4.5,40.96,Festive,Festival
+ORD0162,2023-08-27,Instagram,Debit Card,7,Not Returned,CUST0137,Customer_15,Female,26-35,Pune,New,PROD0029,Diamond Bangle,Bangle,Diamond,24.64,181237.66,3,543712.98,0,4.4,38.3,Summer,Anniversary
+ORD0163,2023-01-29,Marketplace,Net Banking,7,Not Returned,CUST0080,Customer_45,Female,26-35,Kolkata,Returning,PROD0063,Rose Gold Anklet,Anklet,Rose Gold,17.26,37667.42,2,71568.1,5,4.8,18.28,Monsoon,Casual
+ORD0164,2023-12-15,Instagram,Net Banking,5,Not Returned,CUST0037,Customer_29,Male,18-25,Bangalore,New,PROD0068,Gold Necklace,Necklace,Gold,17.92,32074.83,1,25659.86,20,4.5,26.73,Winter,Wedding
+ORD0165,2024-05-13,Instagram,COD,8,Not Returned,CUST0079,Customer_76,Female,36-45,Delhi,Returning,PROD0017,Diamond Necklace,Necklace,Diamond,48.84,125483.0,3,338804.1,10,4.5,21.29,Festive,Festival
+ORD0166,2023-04-17,Website,Credit Card,5,Returned,CUST0089,Customer_82,Female,36-45,Pune,Returning,PROD0022,Silver Pendant,Pendant,Silver,46.21,6880.68,1,6536.65,5,4.1,31.08,Festive,Wedding
+ORD0167,2023-01-02,Marketplace,Credit Card,6,Not Returned,CUST0106,Customer_127,Male,46-60,Pune,New,PROD0049,Kundan Necklace,Necklace,Kundan,5.25,10039.34,3,28612.12,5,4.5,18.73,Monsoon,Valentine
+ORD0168,2023-11-23,Instagram,COD,2,Not Returned,CUST0042,Customer_20,Female,18-25,Mumbai,Returning,PROD0071,Diamond Bangle,Bangle,Diamond,40.36,169185.26,2,321451.99,5,3.2,25.8,Summer,Casual
+ORD0169,2023-12-06,Facebook,Debit Card,4,Not Returned,CUST0077,Customer_61,Female,46-60,Pune,New,PROD0013,Gold Ring,Ring,Gold,44.71,36702.71,4,110108.13,25,2.6,15.77,Festive,Birthday
+ORD0170,2023-01-27,Marketplace,UPI,9,Not Returned,CUST0079,Customer_102,Female,36-45,Bangalore,New,PROD0061,Gold Bracelet,Bracelet,Gold,16.14,11911.55,3,35734.65,0,3.0,24.97,Festive,Birthday
+ORD0171,2023-09-27,Facebook,Net Banking,4,Not Returned,CUST0016,Customer_39,Male,36-45,Delhi,Returning,PROD0013,Platinum Pendant,Pendant,Platinum,20.31,69558.64,4,264322.83,5,3.6,22.99,Summer,Festival
+ORD0172,2024-07-02,Website,COD,10,Not Returned,CUST0009,Customer_129,Female,46-60,Mumbai,Returning,PROD0074,Gold Pendant,Pendant,Gold,20.58,48681.75,2,77890.8,20,3.5,12.13,Festive,Festival
+ORD0173,2023-05-10,Marketplace,Credit Card,5,Not Returned,CUST0038,Customer_67,Male,18-25,Pune,New,PROD0041,Rose Gold Anklet,Anklet,Rose Gold,10.02,8330.15,4,31654.57,5,4.5,43.22,Winter,Birthday
+ORD0174,2023-01-13,Instagram,Net Banking,9,Not Returned,CUST0150,Customer_26,Female,46-60,Delhi,Returning,PROD0014,Kundan Anklet,Anklet,Kundan,15.26,8985.78,4,28754.5,20,4.8,21.41,Summer,Wedding
+ORD0175,2023-10-10,Marketplace,Debit Card,9,Not Returned,CUST0061,Customer_13,Female,46-60,Bangalore,Returning,PROD0061,Rose Gold Anklet,Anklet,Rose Gold,33.43,35229.11,3,89834.23,15,2.6,19.24,Monsoon,Wedding
+ORD0176,2023-08-22,Facebook,Debit Card,3,Not Returned,CUST0107,Customer_23,Male,46-60,Kolkata,New,PROD0025,Diamond Ring,Ring,Diamond,25.6,167129.47,3,451249.57,10,4.9,19.81,Monsoon,Wedding
+ORD0177,2024-02-18,Instagram,UPI,6,Not Returned,CUST0064,Customer_9,Female,26-35,Delhi,New,PROD0059,Platinum Earrings,Earrings,Platinum,9.63,79556.93,3,238670.79,0,4.3,28.03,Festive,Casual
+ORD0178,2024-05-15,Facebook,Debit Card,2,Not Returned,CUST0042,Customer_67,Female,46-60,Hyderabad,Returning,PROD0012,Gold Ring,Ring,Gold,46.31,17328.99,4,55452.77,20,3.1,23.89,Winter,Valentine
+ORD0179,2024-06-09,Instagram,Net Banking,6,Returned,CUST0003,Customer_58,Female,46-60,Delhi,New,PROD0033,Diamond Necklace,Necklace,Diamond,34.53,49323.33,2,93714.33,5,4.1,32.66,Summer,Casual
+ORD0180,2024-09-30,Facebook,Net Banking,6,Not Returned,CUST0073,Customer_77,Female,18-25,Hyderabad,Returning,PROD0014,Rose Gold Anklet,Anklet,Rose Gold,12.47,19257.04,4,69325.34,10,4.2,26.06,Monsoon,Festival
+ORD0181,2024-06-13,Facebook,Credit Card,6,Not Returned,CUST0007,Customer_128,Female,46-60,Pune,New,PROD0038,Platinum Necklace,Necklace,Platinum,47.71,69450.55,3,187516.49,10,3.0,32.96,Monsoon,Festival
+ORD0182,2024-05-02,Instagram,Debit Card,10,Not Returned,CUST0025,Customer_121,Male,26-35,Kolkata,Returning,PROD0017,Diamond Bracelet,Bracelet,Diamond,12.67,152611.78,2,274701.2,10,4.1,35.43,Festive,Casual
+ORD0183,2023-12-06,Website,COD,6,Returned,CUST0014,Customer_150,Male,36-45,Chennai,Returning,PROD0075,Kundan Ring,Ring,Kundan,19.05,19044.62,3,42850.4,25,3.6,13.13,Winter,Valentine
+ORD0184,2023-07-25,Facebook,Credit Card,4,Returned,CUST0021,Customer_125,Male,46-60,Delhi,Returning,PROD0043,Rose Gold Necklace,Necklace,Rose Gold,4.59,22017.19,4,70455.01,20,2.8,20.44,Winter,Casual
+ORD0185,2023-04-01,Marketplace,COD,4,Not Returned,CUST0099,Customer_2,Male,46-60,Chennai,New,PROD0005,Kundan Earrings,Earrings,Kundan,10.09,2084.84,3,5941.79,5,3.7,36.64,Summer,Festival
+ORD0186,2023-12-19,Facebook,Credit Card,5,Not Returned,CUST0017,Customer_12,Female,18-25,Chennai,Returning,PROD0039,Rose Gold Earrings,Earrings,Rose Gold,34.48,38202.47,3,91685.93,20,3.1,16.67,Monsoon,Valentine
+ORD0187,2024-02-18,Instagram,Credit Card,5,Not Returned,CUST0006,Customer_130,Female,26-35,Pune,New,PROD0022,Diamond Bracelet,Bracelet,Diamond,25.53,98059.74,2,176507.53,10,2.9,44.86,Monsoon,Valentine
+ORD0188,2024-10-31,Marketplace,COD,2,Not Returned,CUST0032,Customer_141,Female,18-25,Chennai,New,PROD0033,Gold Ring,Ring,Gold,30.51,21883.66,3,52520.78,20,4.2,31.81,Summer,Valentine
+ORD0189,2024-09-12,Website,Debit Card,10,Not Returned,CUST0030,Customer_28,Male,18-25,Hyderabad,New,PROD0064,Platinum Pendant,Pendant,Platinum,6.85,74091.32,1,66682.19,10,3.2,24.73,Winter,Anniversary
+ORD0190,2023-08-01,Website,UPI,2,Not Returned,CUST0029,Customer_147,Male,26-35,Bangalore,Returning,PROD0064,Silver Bangle,Bangle,Silver,16.18,6736.24,2,12125.23,10,3.9,34.62,Monsoon,Anniversary
+ORD0191,2023-02-21,Facebook,Debit Card,6,Not Returned,CUST0081,Customer_110,Female,18-25,Kolkata,New,PROD0015,Silver Necklace,Necklace,Silver,23.92,5926.73,1,5334.06,10,3.2,32.55,Summer,Birthday
+ORD0192,2023-04-06,Marketplace,COD,6,Returned,CUST0117,Customer_70,Male,26-35,Bangalore,Returning,PROD0050,Gold Anklet,Anklet,Gold,23.01,43339.94,2,78011.89,10,4.7,22.51,Summer,Wedding
+ORD0193,2024-08-27,Marketplace,Debit Card,4,Returned,CUST0008,Customer_34,Male,26-35,Hyderabad,Returning,PROD0062,Kundan Anklet,Anklet,Kundan,36.87,13679.24,2,27358.48,0,2.8,14.64,Festive,Casual
+ORD0194,2024-08-13,Instagram,COD,10,Not Returned,CUST0089,Customer_99,Male,18-25,Chennai,New,PROD0020,Platinum Necklace,Necklace,Platinum,35.82,18907.65,3,42542.21,25,4.4,21.0,Festive,Casual
+ORD0195,2024-05-18,Website,Net Banking,4,Not Returned,CUST0058,Customer_141,Female,36-45,Mumbai,Returning,PROD0049,Rose Gold Bangle,Bangle,Rose Gold,42.89,27162.35,2,43459.76,20,2.7,39.71,Summer,Wedding
+ORD0196,2024-10-31,Website,Net Banking,3,Not Returned,CUST0141,Customer_1,Female,46-60,Chennai,New,PROD0012,Platinum Anklet,Anklet,Platinum,23.46,54023.04,4,216092.16,0,5.0,39.98,Summer,Anniversary
+ORD0197,2023-08-17,Facebook,COD,7,Not Returned,CUST0030,Customer_25,Male,46-60,Pune,Returning,PROD0029,Rose Gold Bangle,Bangle,Rose Gold,47.62,36043.99,2,54065.99,25,4.6,33.5,Monsoon,Valentine
+ORD0198,2024-02-24,Website,COD,9,Returned,CUST0056,Customer_118,Male,26-35,Delhi,New,PROD0025,Gold Ring,Ring,Gold,45.05,29646.08,3,66703.68,25,2.9,13.72,Monsoon,Festival
+ORD0199,2024-05-25,Marketplace,Net Banking,10,Returned,CUST0046,Customer_149,Female,46-60,Kolkata,New,PROD0023,Kundan Ring,Ring,Kundan,30.29,2837.01,1,2411.46,15,2.8,26.01,Festive,Wedding
+ORD0200,2023-12-18,Marketplace,Net Banking,5,Not Returned,CUST0132,Customer_77,Male,26-35,Delhi,Returning,PROD0071,Kundan Anklet,Anklet,Kundan,22.1,8973.3,3,21535.92,20,3.2,40.85,Summer,Anniversary
+ORD0201,2024-12-11,Marketplace,Net Banking,4,Not Returned,CUST0147,Customer_107,Female,36-45,Hyderabad,Returning,PROD0069,Diamond Pendant,Pendant,Diamond,34.27,56160.03,3,126360.07,25,3.8,22.09,Winter,Valentine
+ORD0202,2023-06-14,Website,Debit Card,5,Not Returned,CUST0053,Customer_139,Male,26-35,Kolkata,Returning,PROD0005,Diamond Anklet,Anklet,Diamond,34.17,114091.4,1,96977.69,15,3.2,15.09,Summer,Casual
+ORD0203,2024-12-13,Marketplace,Debit Card,10,Not Returned,CUST0142,Customer_14,Female,46-60,Chennai,Returning,PROD0002,Diamond Anklet,Anklet,Diamond,20.67,130899.59,2,196349.39,25,4.5,32.65,Summer,Casual
+ORD0204,2023-07-01,Website,COD,5,Returned,CUST0011,Customer_110,Female,26-35,Pune,New,PROD0036,Kundan Ring,Ring,Kundan,30.96,16939.7,3,40655.28,20,3.2,29.13,Festive,Anniversary
+ORD0205,2023-11-27,Facebook,UPI,4,Not Returned,CUST0082,Customer_135,Male,46-60,Kolkata,New,PROD0029,Rose Gold Ring,Ring,Rose Gold,36.07,25023.5,3,75070.5,0,2.6,21.57,Winter,Anniversary
+ORD0206,2023-10-28,Facebook,COD,7,Not Returned,CUST0062,Customer_63,Male,18-25,Bangalore,New,PROD0006,Silver Bangle,Bangle,Silver,44.4,3619.48,4,14477.92,0,3.3,22.23,Winter,Wedding
+ORD0207,2024-06-04,Instagram,Debit Card,7,Not Returned,CUST0132,Customer_22,Male,18-25,Mumbai,Returning,PROD0013,Kundan Ring,Ring,Kundan,41.46,8945.77,3,26837.31,0,3.8,41.9,Summer,Casual
+ORD0208,2023-07-30,Marketplace,Debit Card,8,Not Returned,CUST0010,Customer_23,Female,26-35,Bangalore,Returning,PROD0010,Silver Anklet,Anklet,Silver,12.23,5202.0,2,7803.0,25,4.6,32.03,Summer,Birthday
+ORD0209,2023-01-18,Website,Net Banking,8,Not Returned,CUST0012,Customer_19,Female,18-25,Pune,Returning,PROD0046,Gold Earrings,Earrings,Gold,23.65,30873.3,2,55571.94,10,3.6,24.27,Summer,Festival
+ORD0210,2024-06-30,Facebook,Credit Card,2,Not Returned,CUST0077,Customer_96,Female,46-60,Kolkata,New,PROD0002,Rose Gold Necklace,Necklace,Rose Gold,41.46,25836.37,3,65882.74,15,3.7,23.35,Monsoon,Festival
+ORD0211,2023-12-19,Instagram,Credit Card,3,Not Returned,CUST0065,Customer_50,Male,26-35,Delhi,New,PROD0015,Rose Gold Anklet,Anklet,Rose Gold,27.78,8436.47,1,6749.18,20,3.3,30.88,Winter,Birthday
+ORD0212,2023-07-22,Instagram,UPI,3,Not Returned,CUST0073,Customer_18,Male,36-45,Delhi,Returning,PROD0025,Silver Pendant,Pendant,Silver,15.95,6885.41,4,20656.23,25,3.1,29.24,Summer,Birthday
+ORD0213,2024-03-14,Instagram,COD,7,Not Returned,CUST0071,Customer_93,Female,36-45,Delhi,New,PROD0018,Diamond Bracelet,Bracelet,Diamond,29.15,130941.64,3,294618.69,25,4.5,30.45,Monsoon,Casual
+ORD0214,2023-05-24,Website,UPI,3,Not Returned,CUST0130,Customer_8,Male,18-25,Pune,New,PROD0075,Kundan Pendant,Pendant,Kundan,7.22,10331.27,3,27894.43,10,4.6,27.04,Festive,Festival
+ORD0215,2023-08-17,Website,COD,4,Not Returned,CUST0094,Customer_129,Female,46-60,Hyderabad,Returning,PROD0002,Rose Gold Bracelet,Bracelet,Rose Gold,27.9,36626.93,3,87904.63,20,3.4,41.29,Winter,Birthday
+ORD0216,2024-05-10,Marketplace,Credit Card,4,Not Returned,CUST0017,Customer_68,Female,26-35,Kolkata,Returning,PROD0048,Kundan Earrings,Earrings,Kundan,29.19,15629.71,2,26570.51,15,4.3,15.57,Winter,Birthday
+ORD0217,2024-10-26,Facebook,Net Banking,2,Not Returned,CUST0140,Customer_146,Female,36-45,Kolkata,Returning,PROD0023,Silver Necklace,Necklace,Silver,23.82,4384.14,3,11179.56,15,2.6,26.44,Winter,Valentine
+ORD0218,2023-12-28,Website,Net Banking,5,Not Returned,CUST0036,Customer_113,Male,46-60,Hyderabad,Returning,PROD0022,Platinum Pendant,Pendant,Platinum,48.69,64952.7,1,51962.16,20,3.8,18.81,Monsoon,Casual
+ORD0219,2024-02-29,Marketplace,COD,3,Not Returned,CUST0054,Customer_42,Female,46-60,Pune,Returning,PROD0053,Silver Necklace,Necklace,Silver,36.43,2086.38,2,3964.12,5,4.2,22.68,Monsoon,Birthday
+ORD0220,2023-09-22,Facebook,UPI,4,Returned,CUST0056,Customer_115,Male,18-25,Pune,New,PROD0078,Gold Earrings,Earrings,Gold,3.88,30806.89,2,58533.09,5,2.6,32.03,Winter,Wedding
+ORD0221,2024-06-07,Website,Credit Card,4,Not Returned,CUST0097,Customer_99,Female,36-45,Chennai,Returning,PROD0017,Platinum Anklet,Anklet,Platinum,29.97,33645.92,4,107666.94,20,4.1,14.99,Winter,Casual
+ORD0222,2024-06-28,Instagram,Net Banking,2,Not Returned,CUST0139,Customer_1,Female,46-60,Pune,New,PROD0056,Gold Necklace,Necklace,Gold,31.51,42193.14,1,40083.48,5,4.7,26.66,Festive,Anniversary
+ORD0223,2024-12-14,Marketplace,Credit Card,8,Not Returned,CUST0022,Customer_73,Male,26-35,Mumbai,New,PROD0077,Rose Gold Bracelet,Bracelet,Rose Gold,25.14,29115.14,4,110637.53,5,3.4,42.84,Summer,Festival
+ORD0224,2024-12-05,Instagram,COD,8,Not Returned,CUST0150,Customer_65,Male,36-45,Bangalore,Returning,PROD0034,Rose Gold Bracelet,Bracelet,Rose Gold,26.95,4196.9,1,3357.52,20,4.1,28.29,Winter,Festival
+ORD0225,2024-07-26,Facebook,COD,9,Not Returned,CUST0036,Customer_31,Male,36-45,Hyderabad,Returning,PROD0030,Rose Gold Bracelet,Bracelet,Rose Gold,39.62,26027.7,4,98905.26,5,2.9,24.46,Monsoon,Birthday
+ORD0226,2024-10-13,Marketplace,UPI,2,Not Returned,CUST0017,Customer_68,Female,26-35,Chennai,New,PROD0029,Platinum Anklet,Anklet,Platinum,31.47,23523.68,4,84685.25,10,2.9,38.03,Winter,Valentine
+ORD0227,2023-06-29,Facebook,Credit Card,2,Returned,CUST0009,Customer_131,Male,18-25,Delhi,Returning,PROD0067,Diamond Necklace,Necklace,Diamond,15.75,150409.05,4,481308.96,20,4.9,32.97,Summer,Birthday
+ORD0228,2024-02-14,Instagram,Net Banking,3,Not Returned,CUST0004,Customer_18,Male,46-60,Hyderabad,Returning,PROD0012,Kundan Earrings,Earrings,Kundan,48.83,14132.44,3,40277.45,5,5.0,32.93,Winter,Birthday
+ORD0229,2023-09-25,Website,Net Banking,8,Returned,CUST0076,Customer_88,Male,18-25,Hyderabad,New,PROD0015,Rose Gold Ring,Ring,Rose Gold,11.34,16509.1,3,47050.93,5,3.9,31.22,Monsoon,Valentine
+ORD0230,2024-04-14,Facebook,UPI,7,Not Returned,CUST0098,Customer_57,Female,46-60,Bangalore,Returning,PROD0030,Rose Gold Ring,Ring,Rose Gold,13.68,28990.91,4,92770.91,20,4.9,26.93,Monsoon,Birthday
+ORD0231,2023-07-02,Facebook,Credit Card,7,Not Returned,CUST0049,Customer_128,Male,36-45,Delhi,Returning,PROD0026,Diamond Bracelet,Bracelet,Diamond,21.15,146147.34,3,416519.92,5,2.7,20.06,Summer,Festival
+ORD0232,2023-03-22,Marketplace,Debit Card,3,Not Returned,CUST0081,Customer_127,Female,18-25,Kolkata,Returning,PROD0074,Silver Pendant,Pendant,Silver,19.09,2050.84,2,3896.6,5,2.8,39.27,Monsoon,Anniversary
+ORD0233,2023-12-22,Marketplace,Debit Card,10,Not Returned,CUST0003,Customer_4,Female,46-60,Bangalore,Returning,PROD0027,Diamond Bracelet,Bracelet,Diamond,22.31,91618.31,2,183236.62,0,2.6,28.4,Monsoon,Anniversary
+ORD0234,2023-12-18,Instagram,COD,9,Not Returned,CUST0096,Customer_94,Female,46-60,Chennai,Returning,PROD0052,Platinum Bangle,Bangle,Platinum,13.38,45736.2,3,130348.17,5,4.9,29.2,Monsoon,Wedding
+ORD0235,2024-01-26,Website,Credit Card,10,Not Returned,CUST0108,Customer_128,Female,26-35,Chennai,New,PROD0018,Diamond Bracelet,Bracelet,Diamond,40.6,196269.04,2,392538.08,0,3.6,35.23,Winter,Anniversary
+ORD0236,2023-06-17,Website,COD,8,Not Returned,CUST0086,Customer_67,Female,36-45,Chennai,New,PROD0047,Kundan Bangle,Bangle,Kundan,29.26,16135.99,3,43567.17,10,2.7,29.67,Monsoon,Birthday
+ORD0237,2024-10-27,Marketplace,COD,5,Not Returned,CUST0021,Customer_98,Male,36-45,Mumbai,New,PROD0079,Diamond Bangle,Bangle,Diamond,34.62,81945.25,4,327781.0,0,3.9,22.29,Monsoon,Birthday
+ORD0238,2023-12-18,Facebook,Debit Card,3,Not Returned,CUST0102,Customer_70,Male,36-45,Pune,New,PROD0057,Diamond Bracelet,Bracelet,Diamond,29.44,176286.38,3,449530.27,15,2.7,32.09,Winter,Valentine
+ORD0239,2024-12-18,Website,UPI,6,Not Returned,CUST0017,Customer_122,Female,26-35,Chennai,New,PROD0071,Diamond Pendant,Pendant,Diamond,13.26,94518.03,2,189036.06,0,4.9,14.38,Festive,Birthday
+ORD0240,2023-10-18,Instagram,UPI,6,Not Returned,CUST0009,Customer_92,Female,26-35,Hyderabad,Returning,PROD0042,Gold Necklace,Necklace,Gold,44.5,9676.78,2,19353.56,0,3.1,32.92,Summer,Casual
+ORD0241,2024-10-13,Instagram,UPI,9,Returned,CUST0114,Customer_79,Male,36-45,Chennai,Returning,PROD0047,Platinum Bracelet,Bracelet,Platinum,30.36,61626.35,2,92439.52,25,4.1,28.88,Monsoon,Birthday
+ORD0242,2024-05-03,Facebook,Net Banking,9,Returned,CUST0060,Customer_2,Female,46-60,Kolkata,Returning,PROD0071,Platinum Ring,Ring,Platinum,27.68,15897.24,2,28615.03,10,4.9,20.04,Monsoon,Anniversary
+ORD0243,2023-03-23,Facebook,COD,8,Returned,CUST0049,Customer_18,Female,36-45,Mumbai,Returning,PROD0024,Diamond Earrings,Earrings,Diamond,20.71,91055.37,2,136583.05,25,3.1,35.8,Festive,Casual
+ORD0244,2024-07-01,Facebook,Credit Card,2,Not Returned,CUST0113,Customer_3,Female,18-25,Mumbai,New,PROD0030,Silver Ring,Ring,Silver,11.01,5132.97,3,11549.18,25,2.9,31.8,Festive,Wedding
+ORD0245,2023-02-02,Facebook,COD,7,Not Returned,CUST0019,Customer_140,Female,26-35,Bangalore,Returning,PROD0061,Gold Earrings,Earrings,Gold,25.92,14773.46,4,53184.46,10,3.7,37.5,Festive,Wedding
+ORD0246,2023-02-04,Instagram,COD,9,Returned,CUST0100,Customer_80,Male,18-25,Hyderabad,New,PROD0042,Silver Earrings,Earrings,Silver,39.02,6711.89,1,5033.92,25,3.1,18.71,Festive,Festival
+ORD0247,2024-11-13,Marketplace,Debit Card,7,Not Returned,CUST0004,Customer_43,Female,26-35,Pune,New,PROD0036,Silver Pendant,Pendant,Silver,16.34,6085.43,1,5476.89,10,4.7,26.84,Summer,Valentine
+ORD0248,2023-04-02,Facebook,UPI,4,Returned,CUST0016,Customer_92,Female,46-60,Bangalore,New,PROD0020,Rose Gold Necklace,Necklace,Rose Gold,24.81,4321.47,1,3457.18,20,3.4,37.42,Winter,Casual
+ORD0249,2023-01-22,Website,COD,9,Returned,CUST0113,Customer_144,Male,26-35,Mumbai,Returning,PROD0038,Kundan Bangle,Bangle,Kundan,38.32,10781.17,3,25874.81,20,4.3,37.6,Winter,Wedding
+ORD0250,2024-06-27,Facebook,Net Banking,10,Returned,CUST0094,Customer_117,Male,36-45,Kolkata,New,PROD0001,Rose Gold Pendant,Pendant,Rose Gold,15.22,24401.26,3,65883.4,10,2.9,35.63,Winter,Casual
+ORD0251,2023-07-14,Marketplace,Debit Card,10,Not Returned,CUST0029,Customer_25,Female,36-45,Mumbai,Returning,PROD0067,Kundan Bangle,Bangle,Kundan,36.61,17892.78,3,42942.67,20,4.5,18.36,Winter,Casual
+ORD0252,2024-02-02,Instagram,Net Banking,2,Not Returned,CUST0019,Customer_4,Male,18-25,Mumbai,Returning,PROD0027,Kundan Necklace,Necklace,Kundan,11.2,5215.5,1,4954.72,5,3.9,13.75,Winter,Wedding
+ORD0253,2024-12-26,Website,Debit Card,8,Returned,CUST0020,Customer_56,Male,18-25,Pune,New,PROD0067,Kundan Bracelet,Bracelet,Kundan,47.04,16418.36,1,14776.52,10,4.6,29.53,Festive,Wedding
+ORD0254,2024-07-25,Marketplace,COD,4,Not Returned,CUST0027,Customer_43,Female,36-45,Pune,Returning,PROD0024,Gold Necklace,Necklace,Gold,13.94,28924.75,2,54957.02,5,3.9,28.42,Winter,Valentine
+ORD0255,2024-02-27,Instagram,COD,7,Not Returned,CUST0141,Customer_66,Male,26-35,Hyderabad,Returning,PROD0047,Rose Gold Bracelet,Bracelet,Rose Gold,28.4,27671.15,4,99616.14,10,4.6,41.59,Monsoon,Birthday
+ORD0256,2023-08-16,Facebook,Net Banking,6,Not Returned,CUST0131,Customer_143,Male,18-25,Kolkata,New,PROD0074,Platinum Bracelet,Bracelet,Platinum,8.48,76736.63,3,184167.91,20,2.5,10.57,Summer,Casual
+ORD0257,2023-11-04,Website,Debit Card,5,Returned,CUST0124,Customer_45,Male,26-35,Pune,New,PROD0063,Rose Gold Earrings,Earrings,Rose Gold,44.7,20573.31,2,39089.29,5,3.1,19.27,Summer,Wedding
+ORD0258,2023-12-09,Website,Credit Card,3,Not Returned,CUST0003,Customer_98,Male,46-60,Kolkata,Returning,PROD0007,Kundan Pendant,Pendant,Kundan,29.66,12714.16,3,38142.48,0,4.5,35.58,Summer,Birthday
+ORD0259,2024-02-07,Facebook,COD,2,Not Returned,CUST0038,Customer_34,Female,26-35,Chennai,Returning,PROD0044,Diamond Bangle,Bangle,Diamond,12.6,117187.35,2,210937.23,10,4.2,27.58,Monsoon,Wedding
+ORD0260,2024-05-07,Instagram,Net Banking,4,Not Returned,CUST0135,Customer_64,Male,46-60,Pune,New,PROD0032,Gold Bracelet,Bracelet,Gold,22.86,29666.86,3,89000.58,0,4.4,23.95,Summer,Birthday
+ORD0261,2023-12-19,Marketplace,Net Banking,7,Not Returned,CUST0038,Customer_113,Male,26-35,Mumbai,New,PROD0006,Gold Ring,Ring,Gold,22.33,35813.21,1,35813.21,0,3.0,33.51,Monsoon,Casual
+ORD0262,2023-10-22,Marketplace,COD,4,Returned,CUST0006,Customer_85,Male,18-25,Mumbai,New,PROD0027,Silver Earrings,Earrings,Silver,13.67,1669.93,1,1669.93,0,4.7,35.89,Monsoon,Valentine
+ORD0263,2024-11-15,Instagram,UPI,4,Not Returned,CUST0073,Customer_52,Male,18-25,Mumbai,New,PROD0080,Kundan Bangle,Bangle,Kundan,37.04,11835.64,3,28405.54,20,4.2,26.91,Winter,Anniversary
+ORD0264,2024-10-26,Website,Debit Card,3,Not Returned,CUST0125,Customer_137,Female,46-60,Hyderabad,Returning,PROD0012,Diamond Necklace,Necklace,Diamond,33.68,31987.6,3,71972.1,25,2.5,39.82,Summer,Casual
+ORD0265,2023-06-10,Facebook,Credit Card,7,Returned,CUST0129,Customer_71,Male,36-45,Mumbai,New,PROD0008,Silver Earrings,Earrings,Silver,27.41,4705.16,1,4705.16,0,3.7,18.66,Festive,Birthday
+ORD0266,2024-01-27,Instagram,COD,4,Not Returned,CUST0080,Customer_85,Male,26-35,Hyderabad,New,PROD0058,Kundan Ring,Ring,Kundan,45.06,18994.46,3,54134.21,5,2.7,15.31,Summer,Casual
+ORD0267,2024-03-16,Website,Credit Card,10,Not Returned,CUST0082,Customer_38,Female,36-45,Bangalore,New,PROD0004,Rose Gold Earrings,Earrings,Rose Gold,35.85,24917.11,2,47342.51,5,4.8,20.81,Winter,Anniversary
+ORD0268,2024-09-18,Website,Debit Card,4,Not Returned,CUST0021,Customer_123,Female,26-35,Delhi,Returning,PROD0018,Diamond Bracelet,Bracelet,Diamond,7.13,99740.81,3,284261.31,5,2.6,37.27,Monsoon,Casual
+ORD0269,2023-08-20,Marketplace,Credit Card,4,Not Returned,CUST0052,Customer_53,Male,18-25,Mumbai,New,PROD0009,Rose Gold Anklet,Anklet,Rose Gold,25.59,29632.69,3,84453.17,5,2.9,39.82,Festive,Birthday
+ORD0270,2024-02-08,Website,Credit Card,8,Not Returned,CUST0133,Customer_138,Female,46-60,Chennai,New,PROD0051,Silver Bracelet,Bracelet,Silver,39.26,5658.97,4,21504.09,5,4.3,24.96,Festive,Birthday
+ORD0271,2023-10-20,Website,Net Banking,6,Not Returned,CUST0037,Customer_119,Female,46-60,Mumbai,Returning,PROD0058,Kundan Necklace,Necklace,Kundan,21.11,11290.28,1,10725.77,5,4.4,20.19,Festive,Birthday
+ORD0272,2024-12-30,Facebook,Credit Card,4,Not Returned,CUST0032,Customer_24,Male,18-25,Mumbai,New,PROD0015,Gold Pendant,Pendant,Gold,23.64,13089.71,2,22252.51,15,3.6,24.47,Summer,Birthday
+ORD0273,2024-01-25,Instagram,Credit Card,4,Returned,CUST0038,Customer_46,Female,36-45,Hyderabad,New,PROD0007,Kundan Bracelet,Bracelet,Kundan,26.56,3535.52,4,10606.56,25,3.4,37.69,Monsoon,Valentine
+ORD0274,2023-09-17,Marketplace,Net Banking,2,Returned,CUST0002,Customer_127,Male,46-60,Kolkata,New,PROD0031,Platinum Ring,Ring,Platinum,48.1,39546.35,2,79092.7,0,4.1,41.45,Festive,Festival
+ORD0275,2024-10-05,Website,Debit Card,10,Not Returned,CUST0010,Customer_38,Female,26-35,Delhi,New,PROD0005,Silver Bangle,Bangle,Silver,2.32,3903.04,4,15612.16,0,3.2,31.04,Festive,Valentine
+ORD0276,2024-09-17,Website,Debit Card,4,Not Returned,CUST0083,Customer_95,Male,36-45,Bangalore,New,PROD0049,Kundan Bangle,Bangle,Kundan,49.7,7960.0,1,7960.0,0,4.2,13.81,Monsoon,Birthday
+ORD0277,2023-08-03,Website,COD,10,Not Returned,CUST0074,Customer_110,Female,18-25,Hyderabad,New,PROD0078,Gold Anklet,Anklet,Gold,15.17,18177.47,2,36354.94,0,3.5,34.31,Summer,Casual
+ORD0278,2023-08-27,Website,COD,4,Not Returned,CUST0031,Customer_54,Female,18-25,Bangalore,Returning,PROD0079,Diamond Ring,Ring,Diamond,25.89,186878.97,4,598012.7,20,4.7,35.52,Monsoon,Birthday
+ORD0279,2023-11-12,Facebook,Debit Card,6,Not Returned,CUST0102,Customer_146,Male,18-25,Bangalore,Returning,PROD0079,Platinum Bracelet,Bracelet,Platinum,35.12,44720.25,2,89440.5,0,4.5,32.42,Monsoon,Wedding
+ORD0280,2024-05-08,Marketplace,UPI,2,Not Returned,CUST0134,Customer_77,Male,36-45,Chennai,New,PROD0073,Gold Anklet,Anklet,Gold,24.78,19873.17,3,44714.63,25,4.1,26.77,Winter,Anniversary
+ORD0281,2024-01-20,Website,Debit Card,2,Returned,CUST0081,Customer_9,Male,26-35,Hyderabad,New,PROD0035,Kundan Pendant,Pendant,Kundan,9.17,5748.72,3,15521.54,10,3.3,12.32,Summer,Festival
+ORD0282,2023-07-26,Marketplace,Net Banking,7,Not Returned,CUST0040,Customer_49,Male,18-25,Kolkata,New,PROD0044,Platinum Necklace,Necklace,Platinum,10.4,46584.6,3,132766.11,5,4.5,28.38,Winter,Casual
+ORD0283,2023-02-07,Facebook,UPI,4,Not Returned,CUST0023,Customer_86,Male,18-25,Bangalore,Returning,PROD0060,Platinum Pendant,Pendant,Platinum,47.03,80920.32,2,161840.64,0,3.0,38.77,Monsoon,Birthday
+ORD0284,2024-06-29,Instagram,Credit Card,5,Not Returned,CUST0071,Customer_30,Male,18-25,Mumbai,Returning,PROD0002,Gold Necklace,Necklace,Gold,17.4,6011.61,3,13526.12,25,3.2,41.22,Monsoon,Birthday
+ORD0285,2023-06-25,Marketplace,UPI,6,Not Returned,CUST0034,Customer_8,Male,36-45,Hyderabad,New,PROD0061,Rose Gold Bangle,Bangle,Rose Gold,8.79,11436.79,3,27448.3,20,3.9,21.15,Summer,Birthday
+ORD0286,2023-11-16,Marketplace,Net Banking,9,Not Returned,CUST0034,Customer_24,Female,18-25,Kolkata,Returning,PROD0060,Kundan Necklace,Necklace,Kundan,30.61,2968.4,4,10092.56,15,4.0,16.26,Festive,Wedding
+ORD0287,2024-12-17,Website,UPI,7,Not Returned,CUST0122,Customer_29,Male,46-60,Chennai,Returning,PROD0045,Gold Bracelet,Bracelet,Gold,31.61,26174.56,2,49731.66,5,3.5,40.14,Festive,Festival
+ORD0288,2024-10-27,Marketplace,Credit Card,3,Not Returned,CUST0063,Customer_141,Male,46-60,Chennai,New,PROD0021,Platinum Bracelet,Bracelet,Platinum,41.24,80275.03,2,128440.05,20,3.3,13.6,Monsoon,Anniversary
+ORD0289,2024-11-16,Marketplace,Debit Card,5,Not Returned,CUST0143,Customer_25,Male,18-25,Hyderabad,New,PROD0057,Platinum Bracelet,Bracelet,Platinum,18.43,32700.24,4,111180.82,15,2.9,29.85,Monsoon,Wedding
+ORD0290,2023-05-23,Facebook,COD,3,Not Returned,CUST0148,Customer_115,Female,26-35,Chennai,New,PROD0026,Silver Ring,Ring,Silver,33.69,4986.94,4,17952.98,10,3.0,27.3,Summer,Casual
+ORD0291,2024-09-18,Facebook,Net Banking,3,Not Returned,CUST0014,Customer_1,Female,36-45,Bangalore,Returning,PROD0072,Silver Pendant,Pendant,Silver,45.93,4777.07,3,12181.53,15,4.0,35.12,Monsoon,Festival
+ORD0292,2023-08-05,Marketplace,Debit Card,8,Not Returned,CUST0107,Customer_40,Male,26-35,Delhi,New,PROD0037,Diamond Necklace,Necklace,Diamond,20.37,62343.41,4,187030.23,25,3.6,21.13,Summer,Festival
+ORD0293,2023-05-20,Marketplace,Net Banking,8,Returned,CUST0109,Customer_47,Female,46-60,Kolkata,New,PROD0059,Kundan Earrings,Earrings,Kundan,25.36,3291.43,1,3126.86,5,4.9,35.25,Summer,Anniversary
+ORD0294,2023-08-31,Website,Net Banking,9,Not Returned,CUST0124,Customer_95,Male,36-45,Bangalore,Returning,PROD0015,Rose Gold Bracelet,Bracelet,Rose Gold,2.36,17849.73,2,33914.49,5,4.6,24.87,Festive,Birthday
+ORD0295,2024-10-07,Website,COD,3,Not Returned,CUST0117,Customer_132,Male,18-25,Mumbai,New,PROD0061,Rose Gold Bracelet,Bracelet,Rose Gold,27.12,9115.15,3,23243.63,15,3.1,28.09,Summer,Valentine
+ORD0296,2024-07-31,Instagram,Net Banking,6,Not Returned,CUST0014,Customer_75,Female,46-60,Hyderabad,Returning,PROD0080,Rose Gold Pendant,Pendant,Rose Gold,35.36,16704.92,3,45103.28,10,4.3,15.86,Festive,Festival
+ORD0297,2023-01-15,Marketplace,Debit Card,6,Not Returned,CUST0045,Customer_67,Female,26-35,Pune,New,PROD0031,Gold Ring,Ring,Gold,31.56,10706.96,1,9636.26,10,4.6,18.82,Summer,Casual
+ORD0298,2024-02-27,Instagram,Credit Card,9,Not Returned,CUST0148,Customer_89,Female,46-60,Pune,Returning,PROD0007,Platinum Earrings,Earrings,Platinum,41.44,44142.08,1,41934.98,5,4.4,30.84,Summer,Birthday
+ORD0299,2024-11-30,Marketplace,UPI,10,Not Returned,CUST0074,Customer_115,Male,36-45,Delhi,Returning,PROD0049,Kundan Ring,Ring,Kundan,37.82,5016.81,4,17057.15,15,3.1,20.55,Summer,Wedding
+ORD0300,2023-10-01,Instagram,Net Banking,6,Not Returned,CUST0050,Customer_134,Male,46-60,Chennai,New,PROD0044,Kundan Ring,Ring,Kundan,33.3,3752.56,3,9569.03,15,3.3,31.37,Summer,Birthday
