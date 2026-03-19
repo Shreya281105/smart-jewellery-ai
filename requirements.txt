@@ -6,3 +6,7 @@ seaborn>=0.12
 streamlit>=1.28
 anthropic>=0.25
 mlxtend>=0.22
+joblib>=1.2
+groq>=0.4
+google-generativeai>=0.3
+ 
